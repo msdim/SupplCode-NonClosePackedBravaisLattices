@@ -15,3 +15,5 @@ Contents:
 * input_files/DF_square_20x20.png: image showing center-of-mass positions of individual colloids forming a square lattice; consists of a 20um x 20um region
 
 Note: for each of the above input files, the core particle diameter is taken to be 98 nm and the outer diameter is taken to be 346 nm
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11974761.svg)](https://doi.org/10.5281/zenodo.11974761)
